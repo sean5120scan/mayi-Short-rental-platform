@@ -1,10 +1,9 @@
 
-mayi-Short-rental-platform  
+mayi-Short-rental-platform  ( 功能完善中...)
 
 一个仿蚂蚁短租平台的全栈开发案例  
-
-蚂蚁短租平台webapp    
-----------------------------------------------------
+    
+ ----------------------------------------------------
 
 技术栈：  
   1 后台管理：react/react-router/antd-design  
@@ -30,4 +29,4 @@ mayi-Short-rental-platform
      1 cd   ==>mgm  
      2 打开终端 ：运行 node mgmServer.js  
      
-  功能完善中...
+ 
