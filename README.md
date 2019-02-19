@@ -6,6 +6,7 @@ mayi-Short-rental-platform  ( 功能完善中...)
  ----------------------------------------------------
 
 技术栈：  
+
   1 后台管理：react/react-router/antd-design  
   2 webapp  ：vue/vuex/vue-router/vant-ui   
   3 数据库 ：MongoDB   
@@ -14,12 +15,14 @@ mayi-Short-rental-platform  ( 功能完善中...)
   ----------------------------------------------------
    
   客户端    
-  启动步骤:    
+  启动步骤: 
+  
       1 cd  ==>app    
       2 打开终端：运行npm run dev (yarn start)  
       
    后台管理系统：  
    启动步骤：  
+   
      1 cd   ==>mgm  
      2 打开终端 ：运行 npm start  (yarn start)    
      
