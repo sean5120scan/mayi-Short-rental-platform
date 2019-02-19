@@ -1,0 +1,7 @@
+input{border: 1px solid #ddd}
+p{padding: 5px}
+.loginBox{width: 450px; margin:50px auto;box-shadow: 0 0 3px;padding: 15px;}
+.login-tip{display: flex;margin-top: 20px;}
+.errtip{padding-top: 5px;}
+.errtip{color:#f00}
+.login-tip div{flex:1;font-size:12px;cursor: pointer }

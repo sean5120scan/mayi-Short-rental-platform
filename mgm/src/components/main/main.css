@@ -1,0 +1,10 @@
+.mainBox{background: #f8f8f8}
+.header{padding: 19px;display: flex;}
+.logoinfo{width: 80%;}
+.loginout{flex:1 0 auto;font-size: 12px;text-align: right}
+li{list-style: none;padding:15px}
+.active{ background: #f7f7f7}
+a{color:#000;display:block;padding:15px}
+.mainInner{display: flex;}
+.sider{width:320px; background: #eee;min-height: 100vh}
+.content{flex:1 1 auto;background: #fff}
